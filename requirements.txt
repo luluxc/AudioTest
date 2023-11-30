@@ -2,5 +2,3 @@ azure-cognitiveservices-speech
 streamlit
 streamlit-audiorec
 python-dotenv
-os
-io
